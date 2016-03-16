@@ -18,8 +18,9 @@ public class HelloWorld
 	 */
 	public static void main(String[] args)
 	{
+		Testss test = new Testss();
 		log.info("checking whether project addition is going to work");
-		
 	}
 
+	
 }
